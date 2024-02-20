@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.979a48e8.css",
+    "main.js": "/static/js/main.d4e81c84.js",
+    "static/media/pic1.jpg": "/static/media/pic1.f4a544fba61356d19bec.jpg",
+    "static/media/django.png": "/static/media/django.5a91f76cc530d3a29eea.png",
+    "static/media/cv.pdf": "/static/media/cv.485aa12553800f3b0a5d.pdf",
+    "static/media/spring.png": "/static/media/spring.287c1af8b09cf06628bc.png",
+    "static/media/symfony.png": "/static/media/symfony.339a889e2c55a44f70a4.png",
+    "static/media/logo.png": "/static/media/logo.b68ca75808e7986c96b5.png",
+    "static/media/react.png": "/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/js.png": "/static/media/js.1707d09a3f6f31bb97e8.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/HTML.png": "/static/media/HTML.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/angular.png": "/static/media/angular.560a71e91c2db3f9de24.png",
+    "index.html": "/index.html",
+    "main.979a48e8.css.map": "/static/css/main.979a48e8.css.map",
+    "main.d4e81c84.js.map": "/static/js/main.d4e81c84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.979a48e8.css",
+    "static/js/main.d4e81c84.js"
+  ]
+}
